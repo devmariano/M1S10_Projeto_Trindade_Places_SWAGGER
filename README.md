@@ -89,6 +89,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
   Essas ações são simples de implementar, mas podem fazer uma grande diferença na estrutura do projeto, tornando-o mais seguro, organizado e fácil de gerenciar. Além disso, podem ajudar a reduzir o tempo de desenvolvimento, aumentar a produtividade e garantir um produto final de alta qualidade e eficiência.
 
 - [x] Tarefa 11: Documente todas as rotas do projeto utilizando Swagger.
+  - Para atualizar a documentação utilize o comando: npm run swagger-autogen
+  - Utilize o comando http://localhost:3535/doc/#/ para ver a docuemntação no navegador
 ![image](https://user-images.githubusercontent.com/86934710/235498745-bd0aed21-bb54-46c5-8454-0cd06d54c1df.png)
 
 
